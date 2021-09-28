@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5uv8ph1ADXIh0yO0ODRwIyY8iifX1pH3B675tliM9GOwUzw0KZDBn/nPC0jNy02GdGIQc/H4afkaGjARLR5CSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Martin Johansson\\source\\repos\\Assignment2_HangMan_MartinJohansson\\Assignment2_HangMan_MartinJohansson\\Assignment2_HangMan_MartinJohansson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin Johansson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
